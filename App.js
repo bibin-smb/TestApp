@@ -32,3 +32,5 @@ const stackNav = StackNavigator({
 })
 
 export default stackNav;
+
+// gtftfjhv
